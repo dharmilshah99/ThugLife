@@ -35,7 +35,7 @@ Then, make sure you activate the environment you have created.
 That's it. This will create an environment will all the needed dependencies to run the script.
 
 ### Running the Script
-Now, we just need to tell the script where the image we want to ThugLife is. Obtain it's path and put this into the prompt. Don't forget to put the double quotes and make sure your image contains people. 
+Now, we just need to tell the script where the image we want to ThugLife is. Obtain it's path and put this into the prompt as such. Don't forget to put the double quotes and make sure your image contains people. 
 
 ```commandline
 (thuglife) C:\Users\[Name]\Downloads> python ThugLife.py -path "C:\Users\[Name]\Downloads\Baby.jpg"
