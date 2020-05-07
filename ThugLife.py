@@ -14,7 +14,8 @@ def resize_sticker(sticker, points, error=1.7):
     ----------
     sticker (array): Array (2D or greater) representing the sticker's image.
     points (array): Pair of co-ordinates in an array. Eg. [left_x, left_y, right_x and right_y]
-
+    error (float): Error term to account for whitespace within image.
+    
     Returns
     -------
     sticker_resized (array): Array representing the sticker resized.
