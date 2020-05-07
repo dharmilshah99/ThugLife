@@ -29,7 +29,7 @@ There were quite a few dependencies, and it was a pain to get them all into one 
 Then, make sure you activate the environment you have created.
 
 ```commandline
-(thuglife) C:\Users\[Name]\Downloads> conda activate thuglife
+(base) C:\Users\[Name]\Downloads> conda activate thuglife
 ```
 
 That's it. This will create an environment will all the needed dependencies to run the script.
